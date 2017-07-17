@@ -63,3 +63,4 @@ GRAFANA_PLUGIN_VERSION=${GRAFANA_PLUGIN_VERSION}
 GRAFANA_PLUGINS_DIR=${GRAFANA_PLUGINS_DIR:-$DEST/grafana-gnocchi-datasource}
 GRAFANA_PLUGINS_REPO=${GRAFANA_PLUGINS_REPO:-http://github.com/gnocchixyz/grafana-gnocchi-datasource.git}
 GRAFANA_URL=${GRAFANA_URL:-http://$HOST_IP:3000}
+
